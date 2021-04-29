@@ -1,0 +1,16 @@
+.hero {
+    background-color: var(--bgrnd-her);
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 200px;
+  }
+  
+  .hero__title {
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.36;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--white-color);
+    margin-bottom: 30px;
+  }
